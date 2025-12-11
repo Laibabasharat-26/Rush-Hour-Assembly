@@ -327,8 +327,7 @@ rush-hour-game/
 ## 📞 Contact
 
 For questions, suggestions, or collaboration:
-- **Email:** laibabasharat06.com
-- **LinkedIn:** [Your Profile](https://linkedin.com/in/yourprofile)
+- **Email:** laibabasharat06@gmail.com
 - **GitHub:** https://github.com/Laibabasharat-26
 
 ---
